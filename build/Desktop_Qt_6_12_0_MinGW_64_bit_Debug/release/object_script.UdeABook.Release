@@ -1,0 +1,11 @@
+release/main.o
+release/Usuario.o
+release/Mensaje.o
+release/Solicitud.o
+release/Album.o
+release/Foto.o
+release/Sistema.o
+release/Persistencia.o
+release/Metricas.o
+release/Utilidades.o
+release/Menu.o

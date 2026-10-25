@@ -1,0 +1,11 @@
+debug/main.o
+debug/Usuario.o
+debug/Mensaje.o
+debug/Solicitud.o
+debug/Album.o
+debug/Foto.o
+debug/Sistema.o
+debug/Persistencia.o
+debug/Metricas.o
+debug/Utilidades.o
+debug/Menu.o
